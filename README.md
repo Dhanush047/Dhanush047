@@ -1,5 +1,5 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1801/karpenkoilia180100060/94056117-conceito-de-linha-vetorial-para-ci%C3%AAncia-da-computa%C3%A7%C3%A3o-web-banner-linear-para-programa%C3%A7%C3%A3o-.jpg)
-<h1 align="center">Hi I'm Dhanush Adhityan "https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif"</h1>
+<h1 align="center">Hi 👋, I'm Dhanush Adhityan</h1>
 <h3 align="center">MCA | SALESFORCE | SOFTWARE DEVELOPER</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dhanushadi7@gmail.com**
 
-- 📄 Here is my Curriculam Vitae [https://drive.google.com/file/d/1TOQ9JJjU0Zzfi-jBiM-XTztNwGebPEv7/view?usp=sharing](https://drive.google.com/file/d/1TOQ9JJjU0Zzfi-jBiM-XTztNwGebPEv7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TOQ9JJjU0Zzfi-jBiM-XTztNwGebPEv7/view?usp=sharing](https://drive.google.com/file/d/1TOQ9JJjU0Zzfi-jBiM-XTztNwGebPEv7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
