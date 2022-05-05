@@ -1,5 +1,5 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1801/karpenkoilia180100060/94056117-conceito-de-linha-vetorial-para-ci%C3%AAncia-da-computa%C3%A7%C3%A3o-web-banner-linear-para-programa%C3%A7%C3%A3o-.jpg)
-<h1 align="center">Hi 👋, I'm Dhanush Adhityan <width="20" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></h1>
+<h1 align="center">Hi 👋, I'm Dhanush Adhityan <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=35></h1>
 <h3 align="center">MCA | SALESFORCE | SOFTWARE DEVELOPER</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
