@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dhanushadi7@gmail.com**
 
-- 📄 Here is my Resume **[Click Here]()**
+- 📄 Here is my Resume **[Click Here](https://drive.google.com/file/d/1Qoc4Z541b9kjExbP8mgI-SyrRNTVYSFH/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
