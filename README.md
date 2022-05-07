@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Salesforce , Java**
 
-- 📫 How to reach me <img src="https://cdn.dribbble.com/users/4874/screenshots/3074660/media/4e5156e8f7c5d81676345e6a9400e360.gif" length=20 width=35> **dhanushadi7@gmail.com**
+- 📫 How to reach me **dhanushadi7@gmail.com**
 
 - 📄 Here is my Resume **[Click Here](https://drive.google.com/file/d/1TOQ9JJjU0Zzfi-jBiM-XTztNwGebPEv7/view?usp=sharing)**
 
