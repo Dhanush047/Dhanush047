@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/dhanushadi123" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_400px.gif" alt="dhanushadi123" height="100" width="100" /></a>
 <a href="https://linkedin.com/in/dhanush-adhityan-nagarajan" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="dhanush-adhityan-nagarajan" height="100" width="100" /></a>
-<a href="https://instagram.com/_dhanush_04_" target="blank"><img align="center" src="https://c.tenor.com/aCp70-I4zIkAAAAC/instagram-logo.gif" alt="_dhanush_04_" height="100" width="120" /></a>
+<a href="https://instagram.com/_dhanush_04_" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif" alt="_dhanush_04_" height="100" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
