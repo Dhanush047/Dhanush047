@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dhanushadi123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanushadi123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhanush-adhityan-nagarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanush-adhityan-nagarajan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhanush-adhityan-nagarajan" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="dhanush-adhityan-nagarajan" height="100" width="120" /></a>
 <a href="https://instagram.com/_dhanush_04_" target="blank"><img align="center" src="https://c.tenor.com/aCp70-I4zIkAAAAC/instagram-logo.gif" alt="_dhanush_04_" height="100" width="120" /></a>
 </p>
 
