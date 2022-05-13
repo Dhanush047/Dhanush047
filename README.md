@@ -39,7 +39,7 @@
      
 ## Stats 📈
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhanush047&show_icons=true&theme=vue" />     
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhanush047&show_icons=true&theme=vue" />     
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush047&alt=dhanush047&theme=vue" />
 
 
