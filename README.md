@@ -1,7 +1,7 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1801/karpenkoilia180100060/94056117-conceito-de-linha-vetorial-para-ci%C3%AAncia-da-computa%C3%A7%C3%A3o-web-banner-linear-para-programa%C3%A7%C3%A3o-.jpg)
 <h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=35> I'm Dhanush Adhityan </h1>
 <h3 align="center">MCA | SALESFORCE | SOFTWARE DEVELOPER</h3>
-<img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush047&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush047" /> </p>
