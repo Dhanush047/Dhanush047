@@ -16,7 +16,7 @@
 
 - 📄 Here is my Resume **[Click Here](https://drive.google.com/file/d/1Qoc4Z541b9kjExbP8mgI-SyrRNTVYSFH/view?usp=sharing)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect Me Through Social:</h3>
 <p align="left">
 <a href="https://twitter.com/dhanushadi123" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_400px.gif" alt="dhanushadi123" height="100" width="100" /></a>
 <a href="https://linkedin.com/in/dhanush-adhityan-nagarajan" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="dhanush-adhityan-nagarajan" height="100" width="100" /></a>
