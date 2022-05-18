@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush047&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush047" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dhanushadi123" target="blank"><img src="https://img.shields.io/twitter/follow/dhanushadi123?logo=twitter&style=for-the-badge" alt="dhanushadi123" /></a> </p>
+<p align="left"> <a href="https://trailblazer.me/id/dadhityan" target="blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="dadhityan" /></a> </p>
 
 - 🌱 I’m currently learning **Salesforce Developer**
 
