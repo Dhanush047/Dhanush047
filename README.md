@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Salesforce , Java**
 
+- 🎯 **Salesforce Badge x36 , Superbadge x1**
+
 - 📫 How to reach me **dhanushadi7@gmail.com**
 
 - 📄 Here is my Resume **[Click Here](https://drive.google.com/file/d/1Qoc4Z541b9kjExbP8mgI-SyrRNTVYSFH/view?usp=sharing)**
