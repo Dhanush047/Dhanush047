@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Salesforce , Java**
 
-- 🎯 **Salesforce Badge x75 , Superbadge x1**
+- 🎯 **Salesforce Badge x85 , Superbadge x1**
 
 - 📫 How to reach me **dhanushadi7@gmail.com**
 
